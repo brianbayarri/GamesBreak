@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">GamesBreak</string>
+
+    <!-- LOGIN -->
+
+    <string name="login_texto_bienvenido">GamesBreak</string>
+    <string name="login_usuario_placeholder">Usuario</string>
+    <string name="login_contrasena_placeholder">Contraseña</string>
+    <string name="login_boton">Ingresar</string>
+    <string name="login_error">Usuario o contraseña incorrectos.</string>
+    <string name="usuario_id">idUsuario</string>
+
+    <!-- MAIN -->
+
+    <string name="main_bienvenido">Bienvenido</string>
+    <string name="main_buscar">Buscar</string>
+    <string name="main_generos">Géneros</string>
+    <string name="main_juegos">Todos los juegos</string>
+
+    <!-- JUEGO -->
+
+    <string name="game_juego">Juego</string>
+    <string name="game_descripcion">Descripción</string>
+    <string name="game_precio">Precio</string>
+    <string name="game_comprar">Comprar</string>
+    <string name="game_id">gameId</string>
+
+    <!-- COMPRA -->
+    <string name="compra_intermediario">Seleccione un intermediario</string>
+    <string name="compra_steam">Steam</string>
+    <string name="compra_epic">Epic Games</string>
+    <string name="compra_nakama">Nakama</string>
+    <string name="compra_resumen">Resumen de Compra</string>
+    <string name="compra_subtotal">Subtotal</string>
+    <string name="compra_descuento">Descuento</string>
+    <string name="compra_recargo">Recargo</string>
+    <string name="compra_total">Total</string>
+    <string name="compra_confirmar">CONFIRMAR COMPRA</string>
+</resources>
